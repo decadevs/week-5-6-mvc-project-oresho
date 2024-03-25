@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model UserViewModel;
+
+<div class="main-view d-flex flex-row flex-wrap">
+    <div class="left-part flex-grow-1 w-25">
+        <h3>Hello I'm</h3>
+        <h1>@Model.Name</h1>
+        <h2>Professional @Model.Job</h2>
+        <p>I am a @Model.Age year old living in @Model.State, @Model.Country .</p>
+        <p>@Model.Summary</p>
+    </div>
+    <div id="right-part" class="flex-grow-1">
+        <img src="@Model.PhotoUrl" alt="Ore's Image" asp-append-version="true" />
+    </div>
+</div>
+
+
+@* <h1>Registered Users</h1>
+
+<div class="mt-3">
+    <a type="submit" class="btn btn-primary" asp-controller="User" asp-action="Add">Add New User</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>Address</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model is not null)
+        {
+            @foreach (var appUser in Model)
+            {
+                <tr>
+                    <td>@appUser.Id</td>
+                    <td>@appUser.Name</td>
+                    <td>@appUser.Email</td>
+                    <td>@appUser.PhoneNumber</td>
+                    <td>@appUser.Age</td>
+                    <td>@appUser.Gender</td>
+                    <td>@appUser.Address.Street, @appUser.Address.City, @appUser.Address.State, @appUser.Address.Country</td>
+                    <td>
+                        <a class="btn btn-primary" asp-controller="User" asp-action="Edit" asp-route-id="@appUser.Id">Edit</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+ *@

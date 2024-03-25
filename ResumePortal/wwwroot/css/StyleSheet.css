@@ -1,0 +1,39 @@
+﻿body {
+}
+
+#right-part {
+    width: 100px;
+}
+
+
+
+    #right-part img {
+        width: 100%;
+        border-radius: 50%;
+    }
+
+.card {
+    cursor: pointer;
+}
+
+#addNewWork {
+    border: 1px solid;
+    border-radius: 3px;
+    border-color: #80808050;
+}
+
+    #addNewWork :hover {
+        border: 1px solid;
+        border-radius: 3px;
+        color: white;
+        border-color: #80808050;
+        background-color: #80808025;
+    }
+
+#plus {
+    font-size: 30px;
+    color: #80808070;
+    width: 100%;
+    padding-left: 50%;
+    text-decoration: none;
+}
