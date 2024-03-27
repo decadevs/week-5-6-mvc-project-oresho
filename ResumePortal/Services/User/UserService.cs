@@ -1,4 +1,5 @@
-﻿using ResumePortal.Models.Entities;
+﻿using Microsoft.IdentityModel.Tokens;
+using ResumePortal.Models.Entities;
 using ResumePortal.Models.ViewModels;
 using ResumePortal.Repository;
 using ResumePortal.Repository.Interfaces;
@@ -131,6 +132,61 @@ namespace ResumePortal.Services.User
                 Country = user.Address.Country
             };
             return model;
+        }
+
+        public AddUserViewModel GetUserForUpdate()
+        {
+            var user = _userRepository.GetAppUser();
+            if (user == null)
+            {
+                throw new ArgumentNullException(nameof(user));
+            }
+            string[] name = user.Name.Split(' ');
+            AddUserViewModel model = new AddUserViewModel()
+            {
+                Firstname = name[0],
+                Lastname = name[1],
+                Age = user.Age,
+                Email = user.Email,
+                PhoneNumber = user.PhoneNumber,
+                Gender = user.Gender,
+                Summary = user.Summary,
+                Job = user.Job,
+                Street = user.Address.Street,
+                State = user.Address.State,
+                Country = user.Address.Country,
+                City = user.Address.City
+            };
+            return model;
+        }
+
+        public void Update(AddUserViewModel model)
+        {
+            var user = _userRepository.GetAppUser();
+            if (user == null)
+            {
+                throw new ArgumentNullException(nameof(user));
+            }
+
+            string[] name = user.Name.Split(' ');
+            string firstname = model.Firstname.IsNullOrEmpty() ? name[0] : model.Firstname;
+            string lastname = model.Lastname.IsNullOrEmpty() ? name[1] : model.Lastname;
+            string newName = firstname + " " + lastname;
+
+            user.Name = newName;
+            user.Age = model.Age == 0 ? user.Age : model.Age;
+            user.Gender = model.Gender.ToString().IsNullOrEmpty() ? user.Gender : model.Gender;
+            user.Job = model.Job.IsNullOrEmpty() ? user.Job : model.Job;
+            user.Summary = model.Summary.IsNullOrEmpty() ? user.Summary : model.Summary;
+            user.Email = model.Email.IsNullOrEmpty() ? user.Email : model.Email;
+            user.PhoneNumber = model.PhoneNumber.IsNullOrEmpty() ? user.PhoneNumber : model.PhoneNumber;
+            user.Address.Street = model.Street.IsNullOrEmpty() ? user.Address.Street : model.Street;
+            user.Address.City = model.City.IsNullOrEmpty() ? user.Address.City : model.City;
+            user.Address.State = model.State.IsNullOrEmpty() ? user.Address.State : model.State;
+            user.Address.Country = model.Country.IsNullOrEmpty() ? user.Address.Country : model.Country;
+            user.PhotoUrl = model.PhotoUrl == null ? user.PhotoUrl : _imageService.UploadImage(model.PhotoUrl).Data;
+
+            _userRepository.Update(user);
         }
     }
 }

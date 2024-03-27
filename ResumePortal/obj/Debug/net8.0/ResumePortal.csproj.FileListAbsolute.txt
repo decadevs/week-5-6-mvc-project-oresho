@@ -134,3 +134,4 @@ C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\runtimes\
 C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\obj\Debug\net8.0\ResumePo.F11B31A7.Up2Date
+C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\obj\Debug\net8.0\ResumePortal.sourcelink.json

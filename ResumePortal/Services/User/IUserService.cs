@@ -9,5 +9,7 @@ namespace ResumePortal.Services.User
         UserViewModel GetUser();
         Task AddWorkEntry(AddWorkHistoryViewModel viewModel);
         ResumeViewModel GetResume();
+        AddUserViewModel GetUserForUpdate();
+        void Update(AddUserViewModel model);
     }
 }

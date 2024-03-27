@@ -47,5 +47,18 @@ namespace ResumePortal.Controllers
             var result = task.IsCompletedSuccessfully;
             return View(result);
         }
+
+        public IActionResult Update()
+        {
+            var user = _userService.GetUserForUpdate();
+            return View(user);
+        }
+
+        [HttpPost]
+        public IActionResult Update(AddUserViewModel model)
+        {
+            _userService.Update(model);
+            return RedirectToAction("Index", "Home");
+        }
     }
 }

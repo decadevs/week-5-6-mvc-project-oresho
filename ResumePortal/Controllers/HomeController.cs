@@ -20,6 +20,10 @@ namespace ResumePortal.Controllers
         public IActionResult Index()
         {
             var model = _userService.GetUser();
+            if(model == null)
+            {
+                return RedirectToAction("Add", "User");
+            }
             return View(model);
         }
 
