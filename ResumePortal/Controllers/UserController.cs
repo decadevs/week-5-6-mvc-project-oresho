@@ -47,12 +47,11 @@ namespace ResumePortal.Controllers
 
         [HttpPost]
         [Authorize]
-        public IActionResult Contact(string emailText)
+        public async Task<IActionResult> Contact(string emailText)
         {
             var user = _userService.GetUser();
-            var task = _emailService.SendEmailAsync(user.Email,"Inquiry from Website" ,emailText);
-            var result = task.IsCompletedSuccessfully;
-            return View(result);
+            await _emailService.SendEmailAsync(user.Email,"Inquiry from Website" ,emailText);
+            return View(true);
         }
 
         [Authorize]

@@ -26,13 +26,6 @@ namespace ResumePortal.Services.Email
             bodyBuilder.HtmlBody = message;
             emailMessage.Body = bodyBuilder.ToMessageBody();
 
-            //var client = new SmtpClient(host, int.Parse(port))
-            //{
-            //    EnableSsl = true,
-            //    UseDefaultCredentials = false,
-            //    Credentials = new NetworkCredential(email, password)
-            //};
-
             using (var client = new SmtpClient())
             {
                 await client.ConnectAsync(host, int.Parse(port), true);
@@ -40,12 +33,6 @@ namespace ResumePortal.Services.Email
                 await client.SendAsync(emailMessage);
                 await client.DisconnectAsync(true);
             }
-            //return client.SendMailAsync(
-            //    new MailMessage(from: email,
-            //                    to: receiver,
-            //                    subject,
-            //                    message
-            //                    ));
         }
     }
 }
