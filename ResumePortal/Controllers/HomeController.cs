@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ResumePortal.Models.ViewModels;
 using ResumePortal.Services.User;
@@ -17,6 +18,7 @@ namespace ResumePortal.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public IActionResult Index()
         {
             var model = _userService.GetUser();

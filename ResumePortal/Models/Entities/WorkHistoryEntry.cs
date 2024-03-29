@@ -17,7 +17,7 @@ namespace ResumePortal.Models.Entities
         public Address CompanyAddress { get; set; }
 
         [ForeignKey("AppUser")]
-        public Guid AppUserId;
+        public string AppUserId;
         public AppUser AppUser { get; set; }
     }
 }

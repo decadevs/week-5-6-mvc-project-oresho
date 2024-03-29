@@ -3,12 +3,112 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\services\\account\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\services\\account\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\services\\account\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\services\\account\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240328221330_fix_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ResumePortal\\Migrations\\20240328221330_fix_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\models\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\models\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\models\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\models\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\services\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\services\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240328185049_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ResumePortal\\Migrations\\20240328185049_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\models\\entities\\workhistoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\models\\entities\\workhistoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\views\\user\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,18 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\models\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\models\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\models\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\models\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\models\\viewmodels\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,22 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\repository\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,20 +186,8 @@
       "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\views\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\services\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\services\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\models\\entities\\workhistoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\models\\entities\\workhistoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\models\\viewmodels\\resumeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -148,10 +208,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\services\\image\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -178,10 +234,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ResumePortal\\Migrations\\20240324112331_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324004541_nullable_enddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ResumePortal\\Migrations\\20240324004541_nullable_enddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -206,15 +258,7 @@
       "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Decagon\\Frontend\\cssbasics\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|c:\\users\\hp\\desktop\\decagon\\resumeportal\\resumeportal\\resumeportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8B720F29-72A8-4452-BF4D-572ECB9662D3}|ResumePortal\\ResumePortal.csproj|solutionrelative:resumeportal\\resumeportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Decagon\\StudentPortal\\StudentPortal\\Views\\Students\\List.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -250,63 +294,379 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\User\\UserService.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Services\\User\\UserService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\User\\UserService.cs",
-              "RelativeToolTip": "ResumePortal\\Services\\User\\UserService.cs",
-              "ViewState": "AQIAALAAAAAAAAAAAAAswL0AAAAIAAAA",
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Account\\AccountService.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Services\\Account\\AccountService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Account\\AccountService.cs",
+              "RelativeToolTip": "ResumePortal\\Services\\Account\\AccountService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA2wDEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T13:04:15.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\AddUserViewModel.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Models\\ViewModels\\AddUserViewModel.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\AddUserViewModel.cs",
-              "RelativeToolTip": "ResumePortal\\Models\\ViewModels\\AddUserViewModel.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowBgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T00:56:09.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Models\\ViewModels\\UserViewModel.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\UserViewModel.cs",
-              "RelativeToolTip": "ResumePortal\\Models\\ViewModels\\UserViewModel.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T23:31:24.166Z",
+              "WhenOpened": "2024-03-28T19:19:16.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\appsettings.json",
+              "RelativeDocumentMoniker": "ResumePortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\appsettings.json",
+              "RelativeToolTip": "ResumePortal\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T23:25:24.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Models\\Entities\\AppUser.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\Entities\\AppUser.cs",
               "RelativeToolTip": "ResumePortal\\Models\\Entities\\AppUser.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T16:41:13.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Services\\Email\\EmailService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Email\\EmailService.cs",
+              "RelativeToolTip": "ResumePortal\\Services\\Email\\EmailService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:05:16.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Program.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Program.cs",
+              "RelativeToolTip": "ResumePortal\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA2wBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:46:20.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ResumePortal\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAiwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:55:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "ResumePortal\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "ResumePortal\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:44:05.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "ResumePortal\\Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T00:18:42.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Services\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "ResumePortal\\Services\\User\\UserService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAIA6wHQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:04:15.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Account\\IAccountService.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Services\\Account\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Account\\IAccountService.cs",
+              "RelativeToolTip": "ResumePortal\\Services\\Account\\IAccountService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:14:44.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240328221330_fix_db.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240328221330_fix_db.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240328221330_fix_db.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240328221330_fix_db.cs",
+              "RelativeToolTip": "ResumePortal\\Migrations\\20240328221330_fix_db.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:13:31.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ResumePortal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:37:14.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "ResumePortal\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T00:21:20.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ResumePortal\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:23:25.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ResumePortal\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ResumePortal\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:07:03.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ResumePortal\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:08:01.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "ResumePortal\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:45:55.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ResumePortal\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:02:29.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "ResumePortal\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "ResumePortal\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:35:08.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ResumePortal\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ResumePortal\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:18:26.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ResumePortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ResumePortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T00:50:05.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ResumePortal\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAewEEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T00:49:22.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Email\\IEmailService.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Services\\Email\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Email\\IEmailService.cs",
+              "RelativeToolTip": "ResumePortal\\Services\\Email\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T22:57:11.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240328185049_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240328185049_Identity.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240328185049_Identity.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240328185049_Identity.cs",
+              "RelativeToolTip": "ResumePortal\\Migrations\\20240328185049_Identity.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:50:49.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WorkHistoryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\Entities\\WorkHistoryEntry.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Models\\Entities\\WorkHistoryEntry.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\Entities\\WorkHistoryEntry.cs",
+              "RelativeToolTip": "ResumePortal\\Models\\Entities\\WorkHistoryEntry.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:47:14.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Services\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\User\\IUserService.cs",
+              "RelativeToolTip": "ResumePortal\\Services\\User\\IUserService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA7wAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:52:10.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "ResumePortal\\Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:58:58.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Models\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "ResumePortal\\Models\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T23:31:24.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\Entities\\Address.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Models\\Entities\\Address.cs",
@@ -319,72 +679,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ResumePortal\\Controllers\\UserController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAswDsAAAAMAAAA",
+              "DocumentIndex": 29,
+              "Title": "AddUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\AddUserViewModel.cs",
+              "RelativeDocumentMoniker": "ResumePortal\\Models\\ViewModels\\AddUserViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\AddUserViewModel.cs",
+              "RelativeToolTip": "ResumePortal\\Models\\ViewModels\\AddUserViewModel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T00:49:22.945Z",
+              "WhenOpened": "2024-03-18T00:56:09.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\User\\IUserService.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Services\\User\\IUserService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\User\\IUserService.cs",
-              "RelativeToolTip": "ResumePortal\\Services\\User\\IUserService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T12:52:10.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 27,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\User\\Update.cshtml",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\User\\Update.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\User\\Update.cshtml",
               "RelativeToolTip": "ResumePortal\\Views\\User\\Update.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAABjAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwCIAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-27T13:32:50.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Repository\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\RepositoryBase.cs",
-              "RelativeToolTip": "ResumePortal\\Repository\\RepositoryBase.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T23:58:58.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ResumePortal\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T23:23:25.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\User\\Add.cshtml",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\User\\Add.cshtml",
@@ -397,19 +718,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 35,
               "Title": "WorkController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\WorkController.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Controllers\\WorkController.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Controllers\\WorkController.cs",
               "RelativeToolTip": "ResumePortal\\Controllers\\WorkController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAAAMAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAIBQwDEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T19:19:16.28Z"
+              "WhenOpened": "2024-03-23T19:19:16.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 33,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\User\\Profile.cshtml",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\User\\Profile.cshtml",
@@ -422,20 +744,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ResumePortal\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-18T00:49:49.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 34,
               "Title": "AddressRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\AddressRepository.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Repository\\AddressRepository.cs",
@@ -448,58 +770,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 41,
               "Title": "AddWorkHistory.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Work\\AddWorkHistory.cshtml",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\Work\\AddWorkHistory.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Work\\AddWorkHistory.cshtml",
               "RelativeToolTip": "ResumePortal\\Views\\Work\\AddWorkHistory.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAFgAAAAJAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAIBJwFgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T19:19:56.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\appsettings.json",
-              "RelativeDocumentMoniker": "ResumePortal\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\appsettings.json",
-              "RelativeToolTip": "ResumePortal\\appsettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAowBAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-17T23:25:24.212Z",
+              "WhenOpened": "2024-03-23T19:19:56.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "ResumePortal\\Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAD4vxwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T00:21:20.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Program.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Program.cs",
-              "RelativeToolTip": "ResumePortal\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T17:46:20.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 40,
               "Title": "IWorkRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\Interfaces\\IWorkRepository.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Repository\\Interfaces\\IWorkRepository.cs",
@@ -507,23 +791,25 @@
               "RelativeToolTip": "ResumePortal\\Repository\\Interfaces\\IWorkRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T01:06:17.13Z"
+              "WhenOpened": "2024-03-24T01:06:17.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 37,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Work\\Update.cshtml",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\Work\\Update.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Work\\Update.cshtml",
               "RelativeToolTip": "ResumePortal\\Views\\Work\\Update.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAD8AAAAHAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAIBJwD8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T12:02:58.749Z"
+              "WhenOpened": "2024-03-25T12:02:58.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 36,
               "Title": "WorkService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Work\\WorkService.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Services\\Work\\WorkService.cs",
@@ -531,35 +817,38 @@
               "RelativeToolTip": "ResumePortal\\Services\\Work\\WorkService.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAUwCoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:55:08.733Z"
+              "WhenOpened": "2024-03-24T16:55:08.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 39,
               "Title": "WorkRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\WorkRepository.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Repository\\WorkRepository.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\WorkRepository.cs",
               "RelativeToolTip": "ResumePortal\\Repository\\WorkRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA8AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T01:07:06.785Z"
+              "WhenOpened": "2024-03-24T01:07:06.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 42,
               "Title": "JobDetails.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Work\\JobDetails.cshtml",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\Work\\JobDetails.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Work\\JobDetails.cshtml",
               "RelativeToolTip": "ResumePortal\\Views\\Work\\JobDetails.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAGAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwCsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T16:51:43.383Z"
+              "WhenOpened": "2024-03-24T16:51:43.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 38,
               "Title": "IWorkService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Work\\IWorkService.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Services\\Work\\IWorkService.cs",
@@ -567,35 +856,38 @@
               "RelativeToolTip": "ResumePortal\\Services\\Work\\IWorkService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:54:53.105Z"
+              "WhenOpened": "2024-03-24T16:54:53.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 43,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\Interfaces\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Repository\\Interfaces\\IRepositoryBase.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\Interfaces\\IRepositoryBase.cs",
               "RelativeToolTip": "ResumePortal\\Repository\\Interfaces\\IRepositoryBase.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA0wAoAAAAeAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAywAoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T23:57:49.377Z"
+              "WhenOpened": "2024-03-17T23:57:49.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 45,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\User\\Contact.cshtml",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\User\\Contact.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\User\\Contact.cshtml",
               "RelativeToolTip": "ResumePortal\\Views\\User\\Contact.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T19:28:58.62Z"
+              "WhenOpened": "2024-03-23T19:28:58.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "ViewDetail.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\PhotoGallery\\PhotoGallery\\Views\\Gallery\\ViewDetail.cshtml",
               "RelativeDocumentMoniker": "..\\PhotoGallery\\PhotoGallery\\Views\\Gallery\\ViewDetail.cshtml",
@@ -603,11 +895,12 @@
               "RelativeToolTip": "..\\PhotoGallery\\PhotoGallery\\Views\\Gallery\\ViewDetail.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T11:51:43.453Z"
+              "WhenOpened": "2024-03-25T11:51:43.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 46,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ResumePortal\\appsettings.Development.json",
@@ -615,47 +908,12 @@
               "RelativeToolTip": "ResumePortal\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-24T16:32:17.412Z"
+              "WhenOpened": "2024-03-24T16:32:17.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Email\\EmailService.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Services\\Email\\EmailService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Email\\EmailService.cs",
-              "RelativeToolTip": "ResumePortal\\Services\\Email\\EmailService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T23:05:16.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Email\\IEmailService.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Services\\Email\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Email\\IEmailService.cs",
-              "RelativeToolTip": "ResumePortal\\Services\\Email\\IEmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T22:57:11.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "WorkHistoryEntry.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\Entities\\WorkHistoryEntry.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Models\\Entities\\WorkHistoryEntry.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\Entities\\WorkHistoryEntry.cs",
-              "RelativeToolTip": "ResumePortal\\Models\\Entities\\WorkHistoryEntry.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T16:47:14.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 47,
               "Title": "ResumeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\ResumeViewModel.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Models\\ViewModels\\ResumeViewModel.cs",
@@ -663,11 +921,12 @@
               "RelativeToolTip": "ResumePortal\\Models\\ViewModels\\ResumeViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T12:21:29.627Z"
+              "WhenOpened": "2024-03-24T12:21:29.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 49,
               "Title": "AddWorkHistoryViewModel.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\AddWorkHistoryViewModel.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Models\\ViewModels\\AddWorkHistoryViewModel.cs",
@@ -675,11 +934,12 @@
               "RelativeToolTip": "ResumePortal\\Models\\ViewModels\\AddWorkHistoryViewModel.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAowBIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T01:49:31.473Z"
+              "WhenOpened": "2024-03-18T01:49:31.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 48,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\Shared\\_Layout.cshtml.css",
@@ -687,11 +947,12 @@
               "RelativeToolTip": "ResumePortal\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-24T16:31:32.746Z"
+              "WhenOpened": "2024-03-24T16:31:32.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 71,
               "Title": "20240324125008_initial.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324125008_initial.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240324125008_initial.cs",
@@ -699,11 +960,12 @@
               "RelativeToolTip": "ResumePortal\\Migrations\\20240324125008_initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T12:50:08.314Z"
+              "WhenOpened": "2024-03-24T12:50:08.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 50,
               "Title": "IAddressRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\Interfaces\\IAddressRepository.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Repository\\Interfaces\\IAddressRepository.cs",
@@ -711,11 +973,12 @@
               "RelativeToolTip": "ResumePortal\\Repository\\Interfaces\\IAddressRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T22:21:44.864Z"
+              "WhenOpened": "2024-03-23T22:21:44.864Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 51,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\_ViewImports.cshtml",
@@ -723,23 +986,12 @@
               "RelativeToolTip": "ResumePortal\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T23:47:45.547Z"
+              "WhenOpened": "2024-03-23T23:47:45.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Repository\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Repository\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "ResumePortal\\Repository\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T00:18:42.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 53,
               "Title": "ImageService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Image\\ImageService.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Services\\Image\\ImageService.cs",
@@ -747,11 +999,12 @@
               "RelativeToolTip": "ResumePortal\\Services\\Image\\ImageService.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAgwEEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T11:30:04.695Z"
+              "WhenOpened": "2024-03-24T11:30:04.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 52,
               "Title": "IImageService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Services\\Image\\IImageService.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Services\\Image\\IImageService.cs",
@@ -759,11 +1012,12 @@
               "RelativeToolTip": "ResumePortal\\Services\\Image\\IImageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T11:29:42.589Z"
+              "WhenOpened": "2024-03-24T11:29:42.589Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 54,
               "Title": "GenericResponse.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\Dtos\\GenericResponse.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Models\\Dtos\\GenericResponse.cs",
@@ -771,95 +1025,78 @@
               "RelativeToolTip": "ResumePortal\\Models\\Dtos\\GenericResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T11:35:52.262Z"
+              "WhenOpened": "2024-03-24T11:35:52.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 55,
               "Title": "20240324112628_initial.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324112628_initial.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240324112628_initial.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324112628_initial.cs",
               "RelativeToolTip": "ResumePortal\\Migrations\\20240324112628_initial.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAQwHIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T11:26:28.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 56,
               "Title": "20240324112542_initial2.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324112542_initial2.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240324112542_initial2.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324112542_initial2.cs",
               "RelativeToolTip": "ResumePortal\\Migrations\\20240324112542_initial2.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T11:25:42.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 57,
               "Title": "20240324112331_initial.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324112331_initial.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240324112331_initial.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324112331_initial.cs",
               "RelativeToolTip": "ResumePortal\\Migrations\\20240324112331_initial.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T11:23:31.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ResumePortal\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ResumePortal\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T17:37:14.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 58,
               "Title": "20240324004541_nullable_enddate.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324004541_nullable_enddate.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240324004541_nullable_enddate.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324004541_nullable_enddate.cs",
               "RelativeToolTip": "ResumePortal\\Migrations\\20240324004541_nullable_enddate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T00:45:41.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 59,
               "Title": "20240324001315_photo_nullable.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324001315_photo_nullable.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240324001315_photo_nullable.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240324001315_photo_nullable.cs",
               "RelativeToolTip": "ResumePortal\\Migrations\\20240324001315_photo_nullable.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T00:13:15.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 60,
               "Title": "20240323233359_occupation.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240323233359_occupation.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240323233359_occupation.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240323233359_occupation.cs",
               "RelativeToolTip": "ResumePortal\\Migrations\\20240323233359_occupation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T23:34:00.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 61,
               "Title": "StyleSheet.css",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\wwwroot\\css\\StyleSheet.css",
               "RelativeDocumentMoniker": "ResumePortal\\wwwroot\\css\\StyleSheet.css",
@@ -867,71 +1104,51 @@
               "RelativeToolTip": "ResumePortal\\wwwroot\\css\\StyleSheet.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-23T15:36:01.803Z"
+              "WhenOpened": "2024-03-23T15:36:01.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 62,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ResumePortal\\Views\\Shared\\Error.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "ResumePortal\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T23:29:48.376Z"
+              "WhenOpened": "2024-03-17T23:29:48.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ResumePortal\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ResumePortal\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T00:50:05.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 63,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ResumePortal\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ResumePortal\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAABAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-23T15:30:45.798Z"
+              "WhenOpened": "2024-03-23T15:30:45.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 64,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Decagon\\Frontend\\cssbasics\\style.css",
               "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\Decagon\\Frontend\\cssbasics\\style.css",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Decagon\\Frontend\\cssbasics\\style.css",
               "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\Decagon\\Frontend\\cssbasics\\style.css",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAIBJwAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-23T16:24:53.511Z"
+              "WhenOpened": "2024-03-23T16:24:53.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ResumePortal.csproj",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\ResumePortal.csproj",
-              "RelativeDocumentMoniker": "ResumePortal\\ResumePortal.csproj",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\ResumePortal.csproj",
-              "RelativeToolTip": "ResumePortal\\ResumePortal.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-18T12:51:44.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 65,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\StudentPortal\\StudentPortal\\Views\\Students\\List.cshtml",
               "RelativeDocumentMoniker": "..\\StudentPortal\\StudentPortal\\Views\\Students\\List.cshtml",
@@ -939,59 +1156,58 @@
               "RelativeToolTip": "..\\StudentPortal\\StudentPortal\\Views\\Students\\List.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T01:19:55.552Z"
+              "WhenOpened": "2024-03-18T01:19:55.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 66,
               "Title": "20240317234713_Resume Portal.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240317234713_Resume Portal.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240317234713_Resume Portal.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240317234713_Resume Portal.cs",
               "RelativeToolTip": "ResumePortal\\Migrations\\20240317234713_Resume Portal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T23:47:13.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 67,
               "Title": "20240317234535_Resume Portal init4.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240317234535_Resume Portal init4.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240317234535_Resume Portal init4.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240317234535_Resume Portal init4.cs",
               "RelativeToolTip": "ResumePortal\\Migrations\\20240317234535_Resume Portal init4.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T23:45:35.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 68,
               "Title": "20240317233228_Resume Portal init.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240317233228_Resume Portal init.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Migrations\\20240317233228_Resume Portal init.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Migrations\\20240317233228_Resume Portal init.cs",
               "RelativeToolTip": "ResumePortal\\Migrations\\20240317233228_Resume Portal init.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAQwC4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T23:32:28.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 69,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\StudentPortal\\StudentPortal\\Program.cs",
               "RelativeDocumentMoniker": "..\\StudentPortal\\StudentPortal\\Program.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\StudentPortal\\StudentPortal\\Program.cs",
               "RelativeToolTip": "..\\StudentPortal\\StudentPortal\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T23:28:36.032Z"
+              "WhenOpened": "2024-03-17T23:28:36.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 70,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\ResumePortal\\ResumePortal\\Models\\ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ResumePortal\\Models\\ViewModels\\ErrorViewModel.cs",
@@ -999,7 +1215,8 @@
               "RelativeToolTip": "ResumePortal\\Models\\ViewModels\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T16:40:24.121Z"
+              "WhenOpened": "2024-03-17T16:40:24.121Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -24,7 +24,7 @@ namespace ResumePortal.Repository
 
         public AppUser GetAppUser()
         {
-            return FindByCondition(x => x.Id != null)
+            return FindByCondition(x => x.Email == "somuyiwaoreoluwa@gmail.com")
                 .Include(x => x.Address)
                 .Include(x => x.WorkHistory)
                 .FirstOrDefault();

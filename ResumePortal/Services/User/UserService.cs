@@ -121,10 +121,10 @@ namespace ResumePortal.Services.User
             }
             UserViewModel model = new UserViewModel() { 
                 Name = user.Name,
-                Age=user.Age,
+                Age= (int)user.Age,
                 Email = user.Email,
                 PhoneNumber = user.PhoneNumber,
-                Gender = user.Gender,
+                Gender = (char)user.Gender,
                 Summary = user.Summary,
                 Job = user.Job,
                 PhotoUrl = user.PhotoUrl,
@@ -146,10 +146,10 @@ namespace ResumePortal.Services.User
             {
                 Firstname = name[0],
                 Lastname = name[1],
-                Age = user.Age,
+                Age = (int)user.Age,
                 Email = user.Email,
                 PhoneNumber = user.PhoneNumber,
-                Gender = user.Gender,
+                Gender = (char)user.Gender,
                 Summary = user.Summary,
                 Job = user.Job,
                 Street = user.Address.Street,

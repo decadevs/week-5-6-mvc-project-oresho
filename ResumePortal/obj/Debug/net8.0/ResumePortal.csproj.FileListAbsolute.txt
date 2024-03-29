@@ -135,3 +135,12 @@ C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\runtimes\
 C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\obj\Debug\net8.0\ResumePo.F11B31A7.Up2Date
 C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\obj\Debug\net8.0\ResumePortal.sourcelink.json
+C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\MailKit.dll
+C:\Users\HP\Desktop\Decagon\ResumePortal\ResumePortal\bin\Debug\net8.0\MimeKit.dll

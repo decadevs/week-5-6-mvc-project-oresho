@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ResumePortal.Models.ViewModels;
 using ResumePortal.Services.Email;
 using ResumePortal.Services.User;
@@ -16,12 +17,14 @@ namespace ResumePortal.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public IActionResult Add()
         {
             return View();
         }
 
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> Add(AddUserViewModel addUserViewModel)
         {
             await _userService.Create(addUserViewModel);
@@ -29,25 +32,30 @@ namespace ResumePortal.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public IActionResult Profile()
         {
             var resume = _userService.GetResume();
             return View(resume);
         }
 
+        [Authorize]
         public IActionResult Contact()
         {
             return View();
         }
 
         [HttpPost]
+        [Authorize]
         public IActionResult Contact(string emailText)
         {
-            var task = _emailService.SendEmailAsync("Inquiry from Website" ,emailText);
+            var user = _userService.GetUser();
+            var task = _emailService.SendEmailAsync(user.Email,"Inquiry from Website" ,emailText);
             var result = task.IsCompletedSuccessfully;
             return View(result);
         }
 
+        [Authorize]
         public IActionResult Update()
         {
             var user = _userService.GetUserForUpdate();
@@ -55,6 +63,7 @@ namespace ResumePortal.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public IActionResult Update(AddUserViewModel model)
         {
             _userService.Update(model);

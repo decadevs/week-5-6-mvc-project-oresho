@@ -31,6 +31,14 @@
                         </li>
                     </ul>
                 </div>
+                @{
+                    if (User.Identity.IsAuthenticated)
+                    {
+                        <div class="col-4 mt-2">
+                            <a asp-action="Logout" asp-controller="Account" class="btn btn-primary btn-sm float-end">Logout</a>
+                        </div>
+                    }
+                }
             </div>
         </nav>
     </header>
