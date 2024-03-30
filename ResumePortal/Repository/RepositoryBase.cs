@@ -25,10 +25,10 @@ namespace ResumePortal.Repository
             await _applicationDbContext.SaveChangesAsync();
         }
 
-        public void Delete(T entity)
+        public async Task DeleteAsync(T entity)
         {
             _applicationDbContext.Set<T>().Remove(entity);
-            _applicationDbContext.SaveChangesAsync();
+            await _applicationDbContext.SaveChangesAsync();
         }
 
         public IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression)
@@ -41,10 +41,10 @@ namespace ResumePortal.Repository
             return await _applicationDbContext.Set<T>().ToListAsync();
         }
 
-        public void Update(T entity)
+        public async Task UpdateAsync(T entity)
         {
             _applicationDbContext.Set<T>().Update(entity);
-            _applicationDbContext.SaveChangesAsync();
+            await _applicationDbContext.SaveChangesAsync();
         }
     }
 }

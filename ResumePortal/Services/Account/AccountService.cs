@@ -75,6 +75,11 @@ namespace ResumePortal.Services.Account
 
         public async Task SignUpAsync(RegisterViewModel registerViewModel)
         {
+            var email = await _userManager.FindByEmailAsync(registerViewModel.Email);
+            if(email != null)
+            {
+                throw new Exception("Email Already exists");
+            }
             AppUser appUser = new AppUser() { 
                 Name = registerViewModel.Name,
                 Email = registerViewModel.Email,

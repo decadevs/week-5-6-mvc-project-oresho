@@ -52,7 +52,7 @@ namespace ResumePortal.Services.User
             await _workRepository.CreateAsync(workHistoryEntry);
         }
 
-        public async Task Create(AddUserViewModel viewModel)
+        public async Task CreateAsync(AddUserViewModel viewModel)
         {
             int num = _userRepository.Count();
             if (num > 0)
@@ -160,7 +160,7 @@ namespace ResumePortal.Services.User
             return model;
         }
 
-        public void Update(AddUserViewModel model)
+        public async Task UpdateAsync(AddUserViewModel model)
         {
             var user = _userRepository.GetAppUser();
             if (user == null)
@@ -186,7 +186,7 @@ namespace ResumePortal.Services.User
             user.Address.Country = model.Country.IsNullOrEmpty() ? user.Address.Country : model.Country;
             user.PhotoUrl = model.PhotoUrl == null ? user.PhotoUrl : _imageService.UploadImage(model.PhotoUrl).Data;
 
-            _userRepository.Update(user);
+            await _userRepository.UpdateAsync(user);
         }
     }
 }

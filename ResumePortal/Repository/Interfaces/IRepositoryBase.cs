@@ -7,8 +7,8 @@ namespace ResumePortal.Repository.Interfaces
         Task<IEnumerable<T>> GetAllAsync();
         IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression);
         Task CreateAsync(T entity);
-        void Update(T entity);
-        void Delete(T entity);
+        Task UpdateAsync(T entity);
+        Task DeleteAsync(T entity);
         int Count();
     }
 

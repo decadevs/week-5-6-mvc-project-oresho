@@ -6,7 +6,7 @@ namespace ResumePortal.Repository.Interfaces
     {
         Task CreateAsync(WorkHistoryEntry workHistoryEntry);
         WorkHistoryEntry FindById(Guid id);
-        void Delete(WorkHistoryEntry workHistoryEntry);
-        void Update(WorkHistoryEntry workHistoryEntry);
+        Task DeleteAsync(WorkHistoryEntry workHistoryEntry);
+        Task UpdateAsync(WorkHistoryEntry workHistoryEntry);
     }
 }

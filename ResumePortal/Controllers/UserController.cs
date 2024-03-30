@@ -27,7 +27,7 @@ namespace ResumePortal.Controllers
         [Authorize]
         public async Task<IActionResult> Add(AddUserViewModel addUserViewModel)
         {
-            await _userService.Create(addUserViewModel);
+            await _userService.CreateAsync(addUserViewModel);
             return View();
         }
 
@@ -63,9 +63,9 @@ namespace ResumePortal.Controllers
 
         [HttpPost]
         [Authorize]
-        public IActionResult Update(AddUserViewModel model)
+        public async Task<IActionResult> Update(AddUserViewModel model)
         {
-            _userService.Update(model);
+            await _userService.UpdateAsync(model);
             return RedirectToAction("Index", "Home");
         }
     }

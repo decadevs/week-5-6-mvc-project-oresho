@@ -5,7 +5,7 @@ namespace ResumePortal.Services.Work
     public interface IWorkService
     {
         WorkHistoryViewModel GetJobDetail(Guid id);
-        void Delete(Guid id);
-        void Update(WorkHistoryViewModel workHistoryViewModel);
+        Task DeleteAsync(Guid id);
+        Task UpdateAsync(WorkHistoryViewModel workHistoryViewModel);
     }
 }

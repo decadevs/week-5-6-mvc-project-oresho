@@ -5,11 +5,11 @@ namespace ResumePortal.Services.User
 {
     public interface IUserService
     {
-        Task Create(AddUserViewModel viewModel);
+        Task CreateAsync(AddUserViewModel viewModel);
         UserViewModel GetUser();
         Task AddWorkEntry(AddWorkHistoryViewModel viewModel);
         ResumeViewModel GetResume();
         AddUserViewModel GetUserForUpdate();
-        void Update(AddUserViewModel model);
+        Task UpdateAsync(AddUserViewModel model);
     }
 }

@@ -16,14 +16,14 @@ namespace ResumePortal.Services.Work
 
         }
 
-        public void Delete(Guid id)
+        public async Task DeleteAsync(Guid id)
         {
             var job = _workRepository.FindById(id);
             if (job == null)
             {
                 throw new ArgumentNullException(nameof(job));
             }
-            _workRepository.Delete(job);
+            await _workRepository.DeleteAsync(job);
         }
 
         public WorkHistoryViewModel GetJobDetail(Guid id)
@@ -38,7 +38,7 @@ namespace ResumePortal.Services.Work
             return viewModel;
         }
 
-        public void Update(WorkHistoryViewModel workHistoryViewModel)
+        public async Task UpdateAsync(WorkHistoryViewModel workHistoryViewModel)
         {
             var job = _workRepository.FindById(workHistoryViewModel.Id);
             if (job == null)
@@ -60,7 +60,7 @@ namespace ResumePortal.Services.Work
             job.IsStillWorkingHere = workHistoryViewModel.IsStillWorkingHere;
             job.CompanyAddress = address;
 
-            _workRepository.Update(job);
+            await _workRepository.UpdateAsync(job);
         }
 
         private WorkHistoryViewModel MapToViewModel(WorkHistoryEntry workHistoryEntry)

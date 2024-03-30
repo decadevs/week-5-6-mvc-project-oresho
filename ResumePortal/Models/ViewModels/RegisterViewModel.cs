@@ -8,6 +8,7 @@ namespace ResumePortal.Models.ViewModels
         public string? Name { get; set; }
         [Required]
         [DataType(DataType.EmailAddress)]
+        [EmailAddress]
         public string? Email { get; set; }
         [Required]
         [DataType(DataType.Password)]

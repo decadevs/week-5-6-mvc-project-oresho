@@ -32,9 +32,9 @@ namespace ResumePortal.Controllers
             return View(viewModel);
         }
 
-        public IActionResult Delete(Guid id)
+        public async Task<IActionResult> Delete(Guid id)
         {
-            _workService.Delete(id);
+            await _workService.DeleteAsync(id);
             return RedirectToAction("Profile", "User");
         }
 
@@ -45,9 +45,9 @@ namespace ResumePortal.Controllers
         }
 
         [HttpPost]
-        public IActionResult Update(WorkHistoryViewModel workHistoryViewModel)
+        public async Task<IActionResult> Update(WorkHistoryViewModel workHistoryViewModel)
         {
-            _workService.Update(workHistoryViewModel);
+            await _workService.UpdateAsync(workHistoryViewModel);
             return RedirectToAction("Profile", "User");
         }
     }

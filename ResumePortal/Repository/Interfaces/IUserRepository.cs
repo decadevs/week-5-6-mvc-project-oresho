@@ -8,7 +8,7 @@ namespace ResumePortal.Repository.Interfaces
         AppUser GetAppUser();
         IQueryable<AppUser> FindAppUserByName(string name);
         Task CreateAsync(AppUser appUser);
-        void Update(AppUser appUser);
+        Task UpdateAsync(AppUser appUser);
         int Count();
     }
 }

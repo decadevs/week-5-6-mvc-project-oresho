@@ -17,9 +17,9 @@ namespace ResumePortal.Repository
             return FindByCondition(x => x.Name == name);
         }
 
-        public Task<IEnumerable<AppUser>> GetAllAppUsersAsync()
+        public async Task<IEnumerable<AppUser>> GetAllAppUsersAsync()
         {
-            return GetAllAsync();
+            return await GetAllAsync();
         }
 
         public AppUser GetAppUser()
