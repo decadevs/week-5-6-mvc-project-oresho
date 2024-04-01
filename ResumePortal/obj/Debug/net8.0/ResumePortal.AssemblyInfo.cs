@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResumePortal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a826ddee336e0d43e7859aeaa0c5e435e0fb3724")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0274a8ff3c834f4f2489815212a2c6d26ccd70f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResumePortal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResumePortal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

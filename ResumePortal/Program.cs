@@ -33,7 +33,7 @@ namespace ResumePortal
                 options.Password.RequiredUniqueChars = 0;
                 options.Password.RequireLowercase = false;
 
-                options.SignIn.RequireConfirmedEmail = false;
+                options.SignIn.RequireConfirmedEmail = true;
             })
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();

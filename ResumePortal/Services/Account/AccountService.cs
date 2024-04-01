@@ -22,9 +22,18 @@ namespace ResumePortal.Services.Account
             _userManager = userManager;
             _emailService = emailService;
         }
-        public Task ConfirmPassword()
+        public async Task ConfirmEmailAsync(string email, string token)
         {
-            throw new NotImplementedException();
+            AppUser user = await _userManager.FindByEmailAsync(email);
+            if (user == null)
+            {
+                throw new Exception("Invalid token or email, could not confirm email");
+            }
+            var result = await _userManager.ConfirmEmailAsync(user, token);
+            if (!result.Succeeded)
+            {
+                throw new Exception("Invalid token or email, could not confirm email");
+            }
         }
 
         public async Task ForgotPasswordAsync(string email)
@@ -32,7 +41,7 @@ namespace ResumePortal.Services.Account
             AppUser user = await _userManager.FindByEmailAsync(email);
             if (user == null)
             {
-                throw new ArgumentNullException(nameof(user));
+                throw new Exception("No user with this email");
             }
             string token = await _userManager.GeneratePasswordResetTokenAsync(user);
             var encodedEmail = UrlEncoder.Default.Encode(email);
@@ -42,7 +51,6 @@ namespace ResumePortal.Services.Account
             var body = $"<p>Click the following link to reset your password: <a href='{resetLink}'>Reset Password</a></p>";
 
             await _emailService.SendEmailAsync(email, "Reset Password Link", body);
-
         }
 
         public async Task ResetPasswordAsync(string email, string newPassword, string token)
@@ -50,17 +58,27 @@ namespace ResumePortal.Services.Account
             AppUser user = await _userManager.FindByEmailAsync(email);
             if (user == null)
             {
-                throw new ArgumentNullException(nameof(user));
+                throw new Exception("Could not reset password, invalid token or email");
             }
             var result = await _userManager.ResetPasswordAsync(user, token, newPassword);
             if (!result.Succeeded)
             {
-                throw new Exception("Could not reset password, invalid token");
+                throw new Exception("Could not reset password, invalid token or email");
             }
         }
 
         public async Task SignInAsync(LoginViewModel loginViewModel)
         {
+            AppUser user = await _userManager.FindByEmailAsync(loginViewModel.Email);
+            if (user == null)
+            {
+                throw new Exception("Invalid Credentials, Signin failed");
+            }
+            var canSignIn = await _userManager.IsEmailConfirmedAsync(user);
+            if (!canSignIn)
+            {
+                throw new Exception("Please Confirm Email before attempting to sign in");
+            }
             var result = await _signInManager.PasswordSignInAsync(loginViewModel.Email, loginViewModel.Password, true, false);
             if (!result.Succeeded)
             {
@@ -75,8 +93,8 @@ namespace ResumePortal.Services.Account
 
         public async Task SignUpAsync(RegisterViewModel registerViewModel)
         {
-            var email = await _userManager.FindByEmailAsync(registerViewModel.Email);
-            if(email != null)
+            var user = await _userManager.FindByEmailAsync(registerViewModel.Email);
+            if(user != null)
             {
                 throw new Exception("Email Already exists");
             }
@@ -90,7 +108,13 @@ namespace ResumePortal.Services.Account
 
             if (result.Succeeded)
             {
-                await _signInManager.SignInAsync(appUser, true);
+                string token = await _userManager.GenerateEmailConfirmationTokenAsync(appUser);
+                var encodedEmail = UrlEncoder.Default.Encode(appUser.Email);
+                var encodedToken = UrlEncoder.Default.Encode(token);
+                var resetLink = $"https://localhost:7199/Account/ConfirmEmail?email={encodedEmail}&token={encodedToken}";
+                var body = $"<p>Click the following link to confirm your email: <a href='{resetLink}'>Confirm Email</a></p>";
+
+                await _emailService.SendEmailAsync(appUser.Email, "Email Confirmation Link", body);
             }
             else
             {

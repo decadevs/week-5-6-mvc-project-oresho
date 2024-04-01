@@ -20,7 +20,7 @@ namespace ResumePortal.Controllers
         public async Task<IActionResult> Register(RegisterViewModel model)
         {
             await _accountService.SignUpAsync(model);
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("SignupMessage", "Account");
         }
 
         public IActionResult Login()
@@ -66,6 +66,17 @@ namespace ResumePortal.Controllers
         {
             await _accountService.ResetPasswordAsync(email, model.Password, token);
             return RedirectToAction("Login");
+        }
+
+        public IActionResult SignupMessage()
+        {
+            return View();
+        }
+
+        public async Task<IActionResult> ConfirmEmail(string email, string token)
+        {
+            await _accountService.ConfirmEmailAsync(email, token);
+            return View();
         }
     }
 }
