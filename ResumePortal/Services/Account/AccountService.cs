@@ -105,7 +105,7 @@ namespace ResumePortal.Services.Account
             };
 
             var result = await _userManager.CreateAsync(appUser, registerViewModel.Password!);
-
+            
             if (result.Succeeded)
             {
                 string token = await _userManager.GenerateEmailConfirmationTokenAsync(appUser);

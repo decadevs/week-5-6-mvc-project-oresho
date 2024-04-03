@@ -13,7 +13,7 @@ namespace ResumePortal.Services.Email
         }
         public async Task SendEmailAsync(string receiver, string subject, string message)
         {
-            var email = _configuration["EmailSettings:Email"];
+             var email = _configuration["EmailSettings:Email"];
             var password = _configuration["EmailSettings:Password"];
             var host = _configuration["EmailSettings:Host"];
             var port = _configuration["EmailSettings:Port"];

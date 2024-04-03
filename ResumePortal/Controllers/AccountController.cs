@@ -23,15 +23,18 @@ namespace ResumePortal.Controllers
             return RedirectToAction("SignupMessage", "Account");
         }
 
-        public IActionResult Login()
+        public IActionResult Login(string? ReturnUrl)
         {
+            ViewBag.ReturnUrl = string.IsNullOrEmpty(ReturnUrl) ? string.Empty : ReturnUrl;
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(LoginViewModel model)
+        public async Task<IActionResult> Login(LoginViewModel model, string? ReturnUrl)
         {
             await _accountService.SignInAsync(model);
+            if(!string.IsNullOrEmpty(ReturnUrl))
+                return LocalRedirect(ReturnUrl);
             return RedirectToAction("Index", "Home");
         }
 
